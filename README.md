@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Fundraising Project](https://github.com/AymanxMohamed/crowd-funding-web-app-client.git)
 
-- 🌱 I’m currently learning **Angular - React**
+- 🌱 I’m currently learning **Nodejs - Javascript**
 
 - 👨‍💻 All of my projects are available at [http://ashrafeldawody.com](http://ashrafeldawody.com)
 
