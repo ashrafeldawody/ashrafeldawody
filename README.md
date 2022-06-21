@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://ashrafeldawody.com](http://ashrafeldawody.com)
 
-- 💬 Ask me about **Laravel - Vue - React - OOP**
+- 💬 Ask me about ** Nodejs - Javascript - Laravel - Vue - React - OOP**
 
 - 📫 How to reach me **me@ashrafeldawody.com**
 
