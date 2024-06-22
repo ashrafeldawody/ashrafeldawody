@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ashraf Eldawody</h1>
-<h3 align="center">A passionate Full Stack developer from Egypt</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafeldawody&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafeldawody" /> </p>
 
-- 🔭 I’m currently working at [Fixed Solutions](https://fixedmea.com/)
+- 🔭 I’m currently working at [Fixed Solutions](https://fixed.global/)
 
-- 🌱 I’m currently learning **Nodejs - Javascript**
+- 🌱 I’m currently learning **Nestjs - Rust**
 
-- 👨‍💻 All of my projects are available at [http://ashrafeldawody.com](http://ashrafeldawody.com)
+- 👨‍💻 All of my projects are available at [http://ashraf-eldawody.com](http://ashraf-eldawody.com)
 
-- 💬 Ask me about ** Nodejs - Javascript - Laravel - Vue - React - OOP**
+- 💬 Ask me about ** Nodejs - Javascript - Typescript - Nestjs - Nextjs - ElasticSearch - Mongodb - SQL **
 
 - 📫 How to reach me **me@ashrafeldawody.com**
 
-- 📄 Know about my experiences [http://ashrafeldawody.com/](http://ashrafeldawody.com/)
+- 📄 Know about my experiences [http://ashraf-eldawody.com/](http://ashraf-eldawody.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
