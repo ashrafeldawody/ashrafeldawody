@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Fixed Solutions](https://fixed.global/)
 
-- 🌱 I’m currently learning **Nestjs - Rust**
+- 🌱 I’m currently learning **Nestjs**
 
 - 👨‍💻 All of my projects are available at [http://ashraf-eldawody.com](http://ashraf-eldawody.com)
 
