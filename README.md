@@ -1,51 +1,101 @@
-<h1 align="center">Hi 👋, I'm Ashraf Eldawody</h1>
-<h3 align="center">Full Stack Developer — building scalable backends & modern web apps</h3>
+<!-- HERO -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafeldawody&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafeldawody" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ashraf%20Eldawody&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Backend%20Specialist&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
-- 🔭 I’m currently working at **Azm X**
+<a href="https://github.com/ashrafeldawody">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+backends+at+Azm+X;Node.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript+%E2%80%A2+MongoDB;Distributed+systems+%26+event-driven+architecture;Always+shipping%2C+always+learning." alt="typing" />
+</a>
 
-- 🌱 I’m currently exploring **distributed systems, microservices & event-driven architecture**
+<br/>
 
-- 👨‍💻 All of my projects are available at [http://ashraf-eldawody.com](http://ashraf-eldawody.com)
+<img src="https://komarev.com/ghpvc/?username=ashrafeldawody&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/ashrafeldawody?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
 
-- 💬 Ask me about **Node.js · NestJS · Next.js · TypeScript · JavaScript · MongoDB · PostgreSQL · ElasticSearch · Redis · Docker · AWS**
+</div>
 
-- 📫 How to reach me **[me@ashrafeldawody.com](mailto:me@ashrafeldawody.com)**
+---
 
-- 📄 Know about my experiences [http://ashraf-eldawody.com/](http://ashraf-eldawody.com/)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/7231570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7231570" height="30" width="40" /></a>
-<a href="https://fb.com/ashrafeldawody9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrafeldawody9" height="30" width="40" /></a>
-</p>
+- 🔭 &nbsp;Currently building scalable backend systems at **[Azm X](#)**
+- ⚡ &nbsp;Specialized in **Node.js, NestJS, TypeScript** and distributed architectures
+- 🌱 &nbsp;Exploring **microservices, event-driven systems & system design**
+- 🛠️ &nbsp;Comfortable across the stack — APIs, databases, cloud, and the frontend that sits on top
+- 💬 &nbsp;Ask me about **Node.js · NestJS · Next.js · MongoDB · ElasticSearch · AWS**
+- 📫 &nbsp;Reach me at **[me@ashrafeldawody.com](mailto:me@ashrafeldawody.com)**
+- 🌐 &nbsp;Portfolio — **[ashraf-eldawody.com](http://ashraf-eldawody.com)**
+- ⚡ &nbsp;Fun fact — *I write code clean, ship fast, and sleep well.*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
+---
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ashrafeldawody&show_icons=true&theme=tokyonight" alt="ashrafeldawody github stats" />
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,html,css" />
+
+### Frameworks & Runtimes
+<img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,express,graphql" />
+
+### Databases & Search
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,elasticsearch" />
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github,githubactions" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=postman,vscode,jest,figma" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ashrafeldawody&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafeldawody&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafeldawody&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top-langs"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashrafeldawody&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafeldawody&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="activity"/>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"> Connect
+
+<div align="center">
+
+<a href="mailto:me@ashrafeldawody.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="http://ashraf-eldawody.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/7231570"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://fb.com/ashrafeldawody9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/ashrafeldawody">ashrafeldawody</a> — thanks for stopping by.</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" alt="footer"/>
