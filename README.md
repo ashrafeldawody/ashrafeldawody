@@ -18,14 +18,42 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
 
-- 🔭 &nbsp;Currently building scalable backend systems at **[Azm X](#)**
-- ⚡ &nbsp;Specialized in **Node.js, NestJS, TypeScript** and distributed architectures
-- 🌱 &nbsp;Exploring **microservices, event-driven systems & system design**
-- 🛠️ &nbsp;Comfortable across the stack — APIs, databases, cloud, and the frontend that sits on top
-- 💬 &nbsp;Ask me about **Node.js · NestJS · Next.js · MongoDB · ElasticSearch · AWS**
-- 📫 &nbsp;Reach me at **[me@ashrafeldawody.com](mailto:me@ashrafeldawody.com)**
-- 🌐 &nbsp;Portfolio — **[ashraf-eldawody.com](http://ashraf-eldawody.com)**
-- ⚡ &nbsp;Fun fact — *I write code clean, ship fast, and sleep well.*
+<table>
+<tr>
+<td width="62%" valign="top">
+
+<br/>
+
+🔭 &nbsp;Currently engineering scalable backend systems at **Azm X**
+
+⚙️ &nbsp;Backend specialist — **Node.js · NestJS · TypeScript** — with a soft spot for clean architecture and well-designed APIs
+
+🌱 &nbsp;Diving deeper into **microservices, event-driven systems, and distributed architecture**
+
+🛠️ &nbsp;Full-stack when needed — comfortable shipping **Next.js / React** on top of the systems I build
+
+🗄️ &nbsp;Data nerd — **MongoDB · PostgreSQL · ElasticSearch · Redis**
+
+☁️ &nbsp;Deploys live on **AWS**, containerized with **Docker & Kubernetes**
+
+✍️ &nbsp;I write code that's clean, ship fast, and sleep well.
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="320" alt="coding"/>
+
+<br/><br/>
+
+<a href="mailto:me@ashrafeldawody.com"><img src="https://img.shields.io/badge/Email-me%40ashrafeldawody.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<br/>
+<a href="http://ashraf-eldawody.com"><img src="https://img.shields.io/badge/Portfolio-ashraf--eldawody.com-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,10 +90,6 @@
 <br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafeldawody&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top-langs"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashrafeldawody&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
 
 </div>
 
